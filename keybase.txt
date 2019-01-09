@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/childishgiant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://childishgiant.github.io
+  * I am childishgiant (https://keybase.io/childishgiant) on keybase.
+  * I have a public key ASBtSwRRpS9B6pWxORrUPai8ULCzEnmN01OtNc_fNqAhIQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204e5449ecbc521020d009d874c215ed0c88a824c5530f662d46cc492662a365200a",
+      "host": "keybase.io",
+      "kid": "01206d4b0451a52f41ea95b1391ad43da8bc50b0b312798dd353ad35cfdf36a021210a",
+      "uid": "710f9c06f0c9a1c30e04507af6e9e619",
+      "username": "childishgiant"
+    },
+    "merkle_root": {
+      "ctime": 1547051251,
+      "hash": "3ce624a2a06b9ebad0c8b8853e2d59cbf70f042cd7c86f44e8968d9de6c6af36e9ffed4a4eb1672af580a7319677722f9430fb885e0d4ecd97e65ae31c1c790b",
+      "hash_meta": "7bd869bacc865d49c561d8448310a7a974e2b227a06cf7f6a0c9e23784a70c90",
+      "seqno": 4259681
+    },
+    "service": {
+      "entropy": "QWhcnlfsTzh8RXN+0DQqh6Y5",
+      "hostname": "childishgiant.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.3"
+  },
+  "ctime": 1547051264,
+  "expire_in": 504576000,
+  "prev": "8030265d2d0d7b5b6b72fc44574a61dd439d364c486795533e9118a40b523acd",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbUsEUaUvQeqVsTka1D2ovFCwsxJ5jdNTrTXP3zagISEKp3BheWxvYWTESpcCIMQggDAmXS0Ne1trcvxEV0ph3UOdNkxIZ5VTPpEYpAtSOs3EIGPB7Cz3jJZH6Iy75V328i07ZsfYaFMhWT5IYfhELP/rAgHCo3NpZ8RAP6+J44fbMX/mvtu2HVeoLioidzNLaqE9WFzTInBG50pzoeMFS7TL1BgpVUDHEyTAkt06jx7oMBIJspYmD+XoDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOKQWti1ObCV9VdrEGHloPsdtpe+lxWZrk7ICtdHibaDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/childishgiant
+
+==================================================================
