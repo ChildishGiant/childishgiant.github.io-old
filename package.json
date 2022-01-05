@@ -1,0 +1,32 @@
+{
+  "name": "childishgiant.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "npx five-server docs",
+    "build": "node esbuild/build.js",
+    "dev": "node esbuild/dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChildishGiant/childishgiant.github.io.git"
+  },
+  "author": "Allie Law",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ChildishGiant/childishgiant.github.io/issues"
+  },
+  "homepage": "https://github.com/ChildishGiant/childishgiant.github.io#readme",
+  "devDependencies": {
+    "ejs": "^3.1.6",
+    "esbuild": "^0.12.19",
+    "esbuild-plugin-sass": "^0.6.0",
+    "esbuild-sass-plugin": "^1.4.13",
+    "esbuild-serve": "^1.0.1",
+    "five-server": "^0.0.20"
+  },
+  "dependencies": {
+    "marquee3000": "^1.1.1"
+  }
+}
