@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "sources": ["../../../../../../tmp/tmp-84752-y9e3MbUutbF2/childishgiant.github.io/source/styles.css"],
-  "sourcesContent": ["@import url(\"https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Monoton&family=Press+Start+2P&display=swap\");html{min-height:100%}body{margin:0}.gross-box{position:absolute;background-color:white;padding:10px}.banner{position:absolute;height:3em;width:100%;overflow:hidden}#topper{top:0;font-size:3em}.marquee3k__copy{padding-right:30px;box-sizing:border-box}#footer{bottom:0;background:#fff}#footer div div *{display:inline-block}"],
-  "mappings": ";;;AAA0I;AAAK;AAAA;AAAgB;AAAK;AAAA;AAAS;AAAW;AAAkB;AAAuB;AAAA;AAAa;AAAQ;AAAkB;AAAW;AAAW;AAAA;AAAgB;AAAQ;AAAM;AAAA;AAAc;AAAiB;AAAmB;AAAA;AAAsB;AAAQ;AAAS;AAAA;AAAgB;AAAkB;AAAA;",
+  "sources": ["../../../../../../tmp/tmp-52157-W5IxcZSWWd4f/childishgiant.github.io/source/styles.css"],
+  "sourcesContent": ["@import url(\"https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Monoton&family=Press+Start+2P&display=swap\");html{min-height:100%}body{margin:0}.gross-box{position:absolute;background-color:white;padding:10px;white-space:nowrap}.banner{position:absolute;height:3em;width:100%;overflow:hidden}#topper{top:0;font-size:3em}.marquee3k__copy{padding-right:30px;box-sizing:border-box}#footer{bottom:0;background:#fff}#footer div div *{display:inline-block}"],
+  "mappings": ";;;AAA0I;AAAK;AAAA;AAAgB;AAAK;AAAA;AAAS;AAAW;AAAkB;AAAuB;AAAa;AAAA;AAAmB;AAAQ;AAAkB;AAAW;AAAW;AAAA;AAAgB;AAAQ;AAAM;AAAA;AAAc;AAAiB;AAAmB;AAAA;AAAsB;AAAQ;AAAS;AAAA;AAAgB;AAAkB;AAAA;",
   "names": []
 }

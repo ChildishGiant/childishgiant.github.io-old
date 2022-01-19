@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Monoton&family=Press+Start+2P&display=swap";
 
-/* ../../../../../tmp/tmp-84752-y9e3MbUutbF2/childishgiant.github.io/source/styles.css */
+/* ../../../../../tmp/tmp-52157-W5IxcZSWWd4f/childishgiant.github.io/source/styles.css */
 html {
   min-height: 100%;
 }
@@ -11,6 +11,7 @@ body {
   position: absolute;
   background-color: white;
   padding: 10px;
+  white-space: nowrap;
 }
 .banner {
   position: absolute;
